@@ -11,8 +11,8 @@ This repository contains technical reports documenting what was reproduced, the 
 
 | # | Paper | Venue | Focus | Report |
 |---|-------|-------|-------|--------|
-| 1 | Jiao et al. (2023) — *Is ChatGPT a Good Translator?* | arXiv:2301.08745 | LLM-based MT evaluation, prompting strategies | [Report →](paper1_llm_mt_eval/REPORT.md) |
-| 2 | Martin et al. (2021) — *MUSS: Multilingual Unsupervised Sentence Simplification* | arXiv:2005.00352 | Paraphrase mining, controllable simplification | [Report →](paper2_muss/REPORT.md) |
+| 1 | Jiao et al. (2023) — *Is ChatGPT a Good Translator?* | arXiv:2301.08745 | LLM-based MT evaluation, prompting strategies | [Report →](REPORT1.md) |
+| 2 | Martin et al. (2021) — *MUSS: Multilingual Unsupervised Sentence Simplification* | arXiv:2005.00352 | Paraphrase mining, controllable simplification | [Report →](REPORT2.md) |
 
 ---
 
